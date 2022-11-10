@@ -46,7 +46,6 @@ I am a **Full-Stack Developer** with a **strong desire** to learn. I am a **grad
 ## Contact
 You can reach out to me below:  
 - [LinkedIn](https://www.linkedin.com/in/rebecca--preece/)  
-- Email: rebecca-preece@outlook.com
 
 <!--
 **becp12/becp12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
