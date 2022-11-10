@@ -15,7 +15,11 @@ I am a **Full-Stack Software Engineer** with a **strong desire** to learn. I am 
     &nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" alt="React" />
     &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="50" alt="Express" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/aXYAPik.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg">
+    <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" vertical-align="center" width="50">
+  </picture>
     &nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" alt="NodeJS" />
     &nbsp;
