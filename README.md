@@ -6,46 +6,19 @@ I am a **Full-Stack Software Engineer** with a **strong desire** to learn. I am 
 
 ## Technologies
 
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" alt="HTML5" />
-    &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50px" alt="CSS3" />
-    &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" alt="JavaScript" />
-    &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" alt="React" />
-    &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/aXYAPik.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg">
-    <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" vertical-align="center" width="50">
-  </picture>
-    &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" alt="NodeJS" />
-    &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" alt="Python" />
-    &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="50" alt="Django" />
-    &nbsp;
-  <img src="https://i.imgur.com/TiDUvti.png" width="50" alt="Mongoose" />
-    &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" alt="MongoDB" />
-    &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" alt="PostgreSQL" />
-    &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" alt="Bootstrap" />
-    &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="50" alt="Heroku" />
-</p>
+  | &nbsp;&nbsp;HTML5&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;CSS3&nbsp;&nbsp;&nbsp;&nbsp; | Javascript | React | Express | Node.js | Python | Django | Mongoose | MongoDB | PostgreSQL |
+  |:----: |:----:| :----:     | :----:| :----:  | :----:  | :----: | :----: | :----:   | :----:  | :----:     |
+  | ![HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg)| <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="69" alt="JavaScript"/> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="69" alt="JavaScript" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="69" alt="React" /> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/aXYAPik.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"><img alt="Express" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" vertical-align="center" width="69"></picture> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="69" alt="NodeJS" /> |  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="69" alt="Python" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="69" alt="Django" /> | <img src="https://i.imgur.com/TiDUvti.png" width="69" alt="Mongoose" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="69" alt="MongoDB" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="69" alt="PostgreSQL" /> |
+  
+  | Bootstrap | Heroku |
+  | :----:    | :----: |
+  | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="69" alt="Bootstrap" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="69" alt="Heroku" /> |
 
 ## Creative Tools
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="50" alt="Photoshop" />
-    &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="50" alt="Illustrator" />
-    &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="50" alt="Premiere Pro" />
-</p>
+
+| Adobe</br>Photoshop | Adobe</br>Illustrator | Adobe</br>Premier Pro |
+| :----:          | :----:            | :----:            |
+|  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="50" alt="Photoshop" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="50" alt="Illustrator" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="50" alt="Premiere Pro" /> |
 
 ## Contact
 You can reach out to me below:  
