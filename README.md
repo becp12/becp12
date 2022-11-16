@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/RsgIqjT.png" />
 </p>
 
-I am a **Full-Stack Software Engineer** with a **strong desire** to learn. I am a **graduate** from _General Assembly's_ **Software Engineering Immersive Bootcamp**. I have a background in Administation and Data Entry. When I'm not coding I'm either crocheting or playing video games. [You can view my portfolio here](https://becp12.github.io/portfolio-website/).
+I am a **Full-Stack Software Engineer** with a **strong desire** to learn. I am a **graduate** from _General Assembly's_ **Software Engineering Immersive Bootcamp**. I have a background in Administation and Data Entry. When I'm not coding, I'm either crocheting or playing video games. [You can view my portfolio here](https://becp12.github.io/portfolio-website/).
 
 ## Technologies
 
